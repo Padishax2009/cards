@@ -1,0 +1,38 @@
+.father {
+    padding: 0;
+    margin: 0;
+    margin: auto;
+    width: 1300px;
+    height: 700px;
+    border: 2px solid red;
+}
+.big-box{
+    display: flex;
+justify-content: space-between;
+}
+.box1 {
+    width: 150px;
+    height: 150px;
+    border: 2px solid red;
+}
+.box2 {
+    width: 150px;
+    height: 150px;
+    border: 2px solid red;
+}
+.big-box2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 395px;
+}
+.box3 {
+    width: 150px;
+    height: 150px;
+    border: 2px solid red;
+    
+}
+.box4 {
+    width: 150px;
+    height: 150px;
+    border: 2px solid red;
+}
